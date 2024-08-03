@@ -3,65 +3,24 @@ class Solution {
         int carry = 0;
         int p = a.length() - 1;
         int q = b.length() - 1;
-        String ans = "";
-        while (p >= 0 && q >= 0) {
-            int total = (a.charAt(p) - '0') + (b.charAt(q) - '0') + carry;
-            if (total == 3) {
-                carry = 1;
-                ans = "1" + ans;
+        StringBuilder ans = new StringBuilder();
+        while (p >= 0 || q >= 0) {
+            int sum = carry;
+            if (p >= 0) {
+                sum += a.charAt(p) - '0';
+                p--;
             }
-            if (total == 2) {
-                carry = 1;
-                ans = "0" + ans;
+            if (q >= 0) {
+                sum += b.charAt(q) - '0';
+                q--;
             }
-            if (total == 1) {
-                carry = 0;
-                ans = "1" + ans;
-            }
-            if (total == 0) {
-                carry = 0;
-                ans = "0" + ans;
-            }
-            p--;
-            q--;
+            carry = sum / 2;
+            ans.append(sum % 2);
         }
-        while (p >= 0) {
-            int total = (a.charAt(p) - '0') + carry;
-            if (total == 2) {
-                carry = 1;
-                ans = "0" + ans;
-            }
-            if (total == 1) {
-                carry = 0;
-                ans = "1" + ans;
-            }
-            if (total == 0) {
-                carry = 0;
-                ans = "0" + ans;
-            }
-            p--;
+        if (carry != 0) {
+            ans.append(carry);
 
         }
-        while (q >= 0) {
-            int total = (b.charAt(q) - '0') + carry;
-            if (total == 2) {
-                carry = 1;
-                ans = "0" + ans;
-            }
-            if (total == 1) {
-                carry = 0;
-                ans = "1" + ans;
-            }
-            if (total == 0) {
-                carry = 0;
-                ans = "0" + ans;
-            }
-            q--;
-
-        }
-        if (carry == 1) {
-            return "1" + ans;
-        }
-        return ans;
+        return ans.reverse().toString();
     }
 }
