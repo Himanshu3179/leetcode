@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himanshu3179/leetcode/tree/master/0011-container-with-most-water) |
+| [0289-game-of-life](https://github.com/Himanshu3179/leetcode/tree/master/0289-game-of-life) |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshu3179/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
@@ -32,4 +33,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himanshu3179/leetcode/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/Himanshu3179/leetcode/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/Himanshu3179/leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
