@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu3179/leetcode/tree/master/0011-container-with-most-water) |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshu3179/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
@@ -23,4 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshu3179/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu3179/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu3179/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
