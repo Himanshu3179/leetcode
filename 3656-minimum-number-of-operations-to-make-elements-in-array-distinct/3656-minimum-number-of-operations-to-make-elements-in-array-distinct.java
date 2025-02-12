@@ -13,8 +13,7 @@
                 map.put(n,i);
             }
         }
-        System.out.println(map);
-        System.out.println(set);
+
         for(int i:set){
             max = Math.max(i,max);
         }
