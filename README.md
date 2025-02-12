@@ -9,10 +9,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Himanshu3179/leetcode/tree/master/0011-container-with-most-water) |
 | [0289-game-of-life](https://github.com/Himanshu3179/leetcode/tree/master/0289-game-of-life) |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshu3179/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Himanshu3179/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshu3179/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Himanshu3179/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -21,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshu3179/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Himanshu3179/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
 |  |
 | ------- |
@@ -53,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshu3179/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Himanshu3179/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
