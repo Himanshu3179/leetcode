@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu3179/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Himanshu3179/leetcode/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/Himanshu3179/leetcode/tree/master/0036-valid-sudoku) |
 | [0289-game-of-life](https://github.com/Himanshu3179/leetcode/tree/master/0289-game-of-life) |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshu3179/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Himanshu3179/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu3179/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Himanshu3179/leetcode/tree/master/0036-valid-sudoku) |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshu3179/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Himanshu3179/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Himanshu3179/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Himanshu3179/leetcode/tree/master/0036-valid-sudoku) |
 | [0289-game-of-life](https://github.com/Himanshu3179/leetcode/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
