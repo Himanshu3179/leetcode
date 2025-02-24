@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu3179/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu3179/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Himanshu3179/leetcode/tree/master/0036-valid-sudoku) |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshu3179/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Himanshu3179/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu3179/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshu3179/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
@@ -75,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Himanshu3179/leetcode/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu3179/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
